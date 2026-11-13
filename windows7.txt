@@ -1,0 +1,2 @@
+# Experimental legacy pin; requires Python 3.8 x64 + Tcl/Tk.
+Pillow==9.5.0
